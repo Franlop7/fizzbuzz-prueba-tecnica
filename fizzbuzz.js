@@ -43,6 +43,6 @@ function print(num) {
   }
 }
 
-print(16);
+print(100);
 
 module.exports = fizzbuzz;
