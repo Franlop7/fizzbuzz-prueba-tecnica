@@ -1,11 +1,11 @@
-# fizzbuzz-prueba-tecnica
+# Fizzbuzz-technical-test
 
-Escribir un programa que muestre en pantalla los números del 1 al 100, sustituyendo los múltiplos de 3 por la palabra “fizz”, los múltiplos de 5 por “buzz” y los múltiplos de ambos, es decir, los múltiplos de 3 y 5 (o de 15), por la palabra “fizzbuzz”.
+Write a program that displays numbers from 0 to 100, replacing multiples of 3 with the word "fizz", multiples of 5 with "buzz", and multiples of both, i.e., multiples of 3 and 5 (or 15), with the word "fizzbuzz".
 
-## TecTecnologías
+## Technologies
 
-- JavaScript
-- jest para los test.
+- JavaScript.
+- jest.
 
 ## Project Setup`
 
@@ -13,13 +13,13 @@ Escribir un programa que muestre en pantalla los números del 1 al 100, sustituy
 npm i
 ```
 
-### Ejecutar el codigo 
+### Run the code 
 
 ```js
 node fizzbuzz
 ```
 
-### Ejecutar los test
+### Run the test
 
 ```js
 npm test
